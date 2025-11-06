@@ -1,6 +1,7 @@
 # Mockup API 관리 및 배포를 위한 Vercel 실습
 
 > Local Front Page에서 Create한 Mockup API를 Product Environment에서 사용하기 위한 Architecture 설계
+> 
 > FastAPI, Docker-Compose, Vercel, Upstash(Redis), MySQL
 
 - Vercel Hobby는 Request Limit가 큰 대신
